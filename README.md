@@ -103,9 +103,9 @@ Add to your MCP settings (Settings > MCP Servers):
 
 ## Pricing
 
-- **Free**: All local tools + 3 AI tool uses/day
-- **$5 one-time**: 200 credits for pro tools (no subscription)
-- **$24/mo**: 1,125 credits/month + unlimited AI tools
+- **Free**: All local tools + 3 AI tool uses/day on /free-tools/*
+- **$10 one-time**: 50 credits for pro tools (no subscription, credits never expire)
+- **$24/mo Starter**: 1,125 credits/month — best value for regular use
 
 Get your API token at [pixelpanda.ai/pricing](https://pixelpanda.ai/pricing)
 

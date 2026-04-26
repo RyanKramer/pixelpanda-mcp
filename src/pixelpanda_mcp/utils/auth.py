@@ -19,6 +19,6 @@ def require_token() -> str:
             "1. Sign up or log in at https://pixelpanda.ai\n"
             "2. Go to your dashboard and copy your API token\n"
             f"3. Set the PIXELPANDA_API_TOKEN environment variable\n\n"
-            f"Plans start at $5 for 200 credits: {_SIGNUP_URL}"
+            f"Get started with 50 credits for $10 (one-time, no subscription): {_SIGNUP_URL}"
         )
     return token
