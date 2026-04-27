@@ -292,7 +292,7 @@ def register(mcp):
     ) -> str:
         """Enhance, sharpen, and restore an image using multiple AI methods.
 
-        Returns multiple variants (Clean Upscale, Face Enhance, AI Restore, Full Restore).
+        Returns 6 variants (AI Restore, Vivid Restore, Conservative, Face Restore, Face Enhance, GFPGAN Restore).
         Cost: 1 credit. Provide either image_url (public URL) or file_path (local file).
 
         Requires PIXELPANDA_API_TOKEN.
